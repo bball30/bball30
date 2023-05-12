@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Software Engineer at the ITMO University of Saint-Petersburg.\
+🎓 &nbsp;I'm currently studying Software Engineering at the ITMO University of Saint-Petersburg.\
 💬 &nbsp;Ask me about anything in [telegram](https://t.me/bball_30)
 
 ### 🛠 &nbsp;Tech Stack
